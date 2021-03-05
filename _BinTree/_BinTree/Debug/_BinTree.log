@@ -1,0 +1,3 @@
+﻿  main.cpp
+H:\_BinTree\_BinTree\main.cpp(183,3): warning C4060: оператор switch не содержит метку "case" или "default"
+  _BinTree.vcxproj -> H:\_BinTree\Debug\_BinTree.exe
